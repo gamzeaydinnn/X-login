@@ -1,5 +1,3 @@
-Of course! Here is a detailed README.md file in English that explains your Playwright script step-by-step.
-
 X.com (Twitter) DM Automation with Playwright
 This project contains an end-to-end test script built with Playwright that automates the entire process of logging into an X.com (formerly Twitter) account, sending a Direct Message (DM) to a specific user, and verifying the action.
 
